@@ -1,5 +1,5 @@
-# Magnettic - Build prototypes... really fast.
+# Magnettic
 
-Figma to code in minutes for anyone on your team.
+Building the next generation of prototyping tools, powered by context-aware AI to align teams, clarify ideas, and unlock better work.
 
-Join our waitlist at [magnettic.io](https://magnettic.io/).
+Sign up for the waitlist at [magnettic.io](https://magnettic.io/).
